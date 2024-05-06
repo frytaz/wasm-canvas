@@ -1,0 +1,7 @@
+*~
+.DS_Store
+*.wasm
+*.bak
+manual.md
+build
+
